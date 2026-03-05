@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ApiMeasurement/ApiMeasurement.csproj" />
+  <Project Path="ClassMeasurement/ClassMeasurement.csproj" />
+</Solution>
